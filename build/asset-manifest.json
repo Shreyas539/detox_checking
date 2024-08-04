@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/static/css/main.0f81a149.css",
+    "main.js": "/static/js/main.9b4a7e1d.js",
+    "static/js/453.558a451d.chunk.js": "/static/js/453.558a451d.chunk.js",
+    "static/media/Tailwind_CSS_Logo.png": "/static/media/Tailwind_CSS_Logo.11cb6152b4f48291782a.png",
+    "static/media/detoxlogo.png": "/static/media/detoxlogo.9d8f067fc98a1340e925.png",
+    "static/media/userprofile.png": "/static/media/userprofile.a75c58f889221538abaa.png",
+    "static/media/logo.svg": "/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/index.html",
+    "main.0f81a149.css.map": "/static/css/main.0f81a149.css.map",
+    "main.9b4a7e1d.js.map": "/static/js/main.9b4a7e1d.js.map",
+    "453.558a451d.chunk.js.map": "/static/js/453.558a451d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0f81a149.css",
+    "static/js/main.9b4a7e1d.js"
+  ]
+}
